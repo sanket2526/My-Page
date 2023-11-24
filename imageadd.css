@@ -1,0 +1,56 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background-color: #333333;
+    color: rgb(255, 255, 255);
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.content {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333333;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Background images for home and information pages */
+body.home {
+    background-image: url('home-background.jpg'); /* Replace 'home-background.jpg' with your actual image file */
+}
+
+body.info {
+    background-image: url('info-background.jpg'); /* Replace 'info-background.jpg' with your actual image file */
+}
+
+/* Rest of your existing styles */
