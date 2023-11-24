@@ -9,8 +9,8 @@ body {
 }
 
 header {
-    background-color: #333333;
-    color: rgb(255, 255, 255);
+    background-color: #333;
+    color: white;
     padding: 1em;
     text-align: center;
 }
@@ -27,7 +27,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .content {
@@ -35,8 +35,8 @@ nav a {
 }
 
 footer {
-    background-color: #333333;
-    color: rgb(255, 255, 255);
+    background-color: #333;
+    color: white;
     text-align: center;
     padding: 1em;
     position: fixed;
@@ -46,11 +46,12 @@ footer {
 
 /* Background images for home and information pages */
 body.home {
-    background-image: url('c:\Users\Sanket\OneDrive\Desktop\download.jpeg'); /* Replace 'home-background.jpg' with your actual image file */
+    background-image: url('c:\Users\Sanket\OneDrive\Desktop\download.jpeg'); /* Replace 'c:\Users\Sanket\OneDrive\Desktop\download.jpeg' with your actual image file */
 }
 
 body.info {
-    background-image: url('c:\Users\Sanket\OneDrive\Desktop\download.jpeg'); /* Replace 'info-background.jpg' with your actual image file */
+    background-image: url('c:\Users\Sanket\OneDrive\Desktop\download.jpeg'); /* Replace 'c:\Users\Sanket\OneDrive\Desktop\download.jpeg' with your actual image file */
 }
 
 /* Rest of your existing styles */
+
