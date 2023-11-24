@@ -46,11 +46,11 @@ footer {
 
 /* Background images for home and information pages */
 body.home {
-    background-image: url('home-background.jpg'); /* Replace 'home-background.jpg' with your actual image file */
+    background-image: url('c:\Users\Sanket\OneDrive\Desktop\download.jpeg'); /* Replace 'home-background.jpg' with your actual image file */
 }
 
 body.info {
-    background-image: url('info-background.jpg'); /* Replace 'info-background.jpg' with your actual image file */
+    background-image: url('c:\Users\Sanket\OneDrive\Desktop\download.jpeg'); /* Replace 'info-background.jpg' with your actual image file */
 }
 
 /* Rest of your existing styles */
