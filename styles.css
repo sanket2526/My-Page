@@ -4,6 +4,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-size: cover;
+    background-position: center;
 }
 
 header {
@@ -41,3 +43,14 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Background images for home and information pages */
+body.home {
+    background-image: url('website code/home background.jpg.jpeg'); /* Replace 'c:\Users\Sanket\OneDrive\Desktop\download.jpeg' with your actual image file */
+}
+
+body.info {
+    background-image: url('website code/home background.jpg.jpeg'); /* Replace 'c:\Users\Sanket\OneDrive\Desktop\download.jpeg' with your actual image file */
+}
+
+/* Rest of your existing styles */
